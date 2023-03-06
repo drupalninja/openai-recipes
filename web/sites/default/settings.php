@@ -779,4 +779,4 @@ if (file_exists(__DIR__ . '/settings.ddev.php') && getenv('IS_DDEV_PROJECT') == 
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 
-$settings['api_key'] = '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';
+$settings['api_key'] = 'ADD KEY HERE';
